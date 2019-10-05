@@ -4,7 +4,7 @@ int main(){
    //n is the number of elements in the array
    int n, largest;
    int num[50];
-   cout<<"Enter number of elements you want to enter: ";
+   cout<<"Enter number of elements you want to enter:  ";
    cin>>n;
    
    /* Loop runs from o to n, in such a way that first
