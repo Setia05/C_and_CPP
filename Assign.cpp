@@ -3,7 +3,7 @@
 
 using namespace std;
 
-string a; // Global Variable Declaration (used to connect two class function)
+string a; // Global Variable Declaration (used to connect two class function )
 
 class Hospital 			// Class Creation
 {
