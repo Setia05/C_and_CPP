@@ -6,7 +6,7 @@ using namespace std;
 string a; // Global Variable Declaration (used to connect two class function)
 
 class Hospital 			// Class Creation
-{
+{ 
 public: // Class Type
 	void displayMessage (string Patient_Name,int Pressure,string Suggestion)const
 	{
