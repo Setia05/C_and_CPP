@@ -1,6 +1,6 @@
 // C++ program to demonstrate vector of pairs 
 #include<bits/stdc++.h> 
-using namespace std; 
+using namespace std; // Using standard library 
   
 int main() 
 { 
