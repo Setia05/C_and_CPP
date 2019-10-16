@@ -2,7 +2,7 @@
 #include<bits/stdc++.h> 
 using namespace std; // Using standard library 
   
-int main() 
+int main() // Main program starts 
 { 
     //declaring vector of pairs 
     vector< pair <int,int> > vect; 
