@@ -1,4 +1,4 @@
-// C program to find the prime numbers 
+// C program to find the prime numbers  
 // between a given interval  
   
 #include <stdio.h> 
