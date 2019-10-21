@@ -3,9 +3,9 @@
   
 #include <stdio.h> 
   
-int main() 
+int main()
 { 
-    // Declare the variables 
+    // Declare the variables
     int a, b, i, j, flag; 
   
     // Ask user to enter lower value of interval 
