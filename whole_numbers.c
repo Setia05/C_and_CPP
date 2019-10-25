@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main() //main driver code
+int main() //main driver code//
 {
 	int n,i;
 	printf("Enter a number:");
