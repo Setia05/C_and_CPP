@@ -2,7 +2,7 @@
     using namespace std;
     int main(){ 
     int n=8;
-
+ 
     while(n--){
         int m = 8;
         if(n%2!=0){
