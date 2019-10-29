@@ -1,7 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-
 void swap(int arr[], int i, int j)
 {
     int temp = arr[j];
