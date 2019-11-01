@@ -1,4 +1,4 @@
-// C program to check if a given  
+// C program to check if a given   
 // year is leap year or not
 
 #include <stdio.h> 
