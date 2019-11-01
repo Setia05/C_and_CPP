@@ -5,6 +5,7 @@
 #include <stdbool.h> 
   
 bool checkYear(int year) 
+  
 { 
     // If a year is multiple of 400,  
     // then it is a leap year 
