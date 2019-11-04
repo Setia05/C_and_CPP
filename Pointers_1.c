@@ -1,4 +1,4 @@
-#include <stdio.h>   //standard file in c language
+#include <stdio.h>        //standard file in c language
 void main()              //main function is generated in void and having no return value
 {
   int m=300;             //value of m is taken in integer
