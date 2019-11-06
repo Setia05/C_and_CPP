@@ -31,7 +31,7 @@ void bubbleSortdecending(int arr[], int n)
            if (arr[j] < arr[j+1])         // Checking values greater than or less than
               swap(&arr[j], &arr[j+1]);  // Function Call for swapping
 }
-
+ 
 // Function to print the array
 void printArray(int arr[], int size)
 {
