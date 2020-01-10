@@ -1,6 +1,6 @@
 #include <stdio.h>  // Preprocessor Directives
 
-int main() // Code Begins here
+int main() // Code Begins here 
 {
 	int i,n; // Variable Declaration
 	float num[10],sum=0.0,average; //Variable Declaration
